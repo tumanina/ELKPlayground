@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ElasticSearch.TestDataLoader": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

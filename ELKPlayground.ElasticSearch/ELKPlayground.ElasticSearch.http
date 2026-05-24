@@ -1,0 +1,6 @@
+@ELKPlayground.ElasticSearch_HostAddress = http://localhost:5227
+
+GET {{ELKPlayground.ElasticSearch_HostAddress}}/products/
+Accept: application/json
+
+###
